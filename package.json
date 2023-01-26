@@ -1,0 +1,39 @@
+{
+  "name": "ts_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jquery": "^3.6.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "react-native": "^0.71.1",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.3",
+    "@types/express": "^4.17.15",
+    "@types/express-session": "^1.17.5",
+    "@types/jquery": "^3.5.14",
+    "@types/node": "^18.11.18",
+    "@types/passport": "^1.0.11",
+    "@types/passport-local": "^1.0.35",
+    "@types/react": "^18.0.26"
+  }
+}
